@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/31ash/Desktop/mlops/mlruns/0/287e539dc8e3428ebffb2fd8f9af59c9/artifacts
+end_time: 1722567574666
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 287e539dc8e3428ebffb2fd8f9af59c9
+run_name: mysterious-moose-225
+run_uuid: 287e539dc8e3428ebffb2fd8f9af59c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722567563931
+status: 3
+tags: []
+user_id: 31ash

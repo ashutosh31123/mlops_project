@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/31ash/Desktop/mlops/mlruns/0/d663a169bf6644538102985ae7798389/artifacts
+end_time: 1722432592475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d663a169bf6644538102985ae7798389
+run_name: defiant-wolf-763
+run_uuid: d663a169bf6644538102985ae7798389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722432582938
+status: 3
+tags: []
+user_id: 31ash

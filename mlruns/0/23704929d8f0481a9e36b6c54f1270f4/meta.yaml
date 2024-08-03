@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/31ash/Desktop/mlops/mlruns/0/23704929d8f0481a9e36b6c54f1270f4/artifacts
+end_time: 1722432577243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23704929d8f0481a9e36b6c54f1270f4
+run_name: judicious-carp-838
+run_uuid: 23704929d8f0481a9e36b6c54f1270f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722432563834
+status: 3
+tags: []
+user_id: 31ash

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/31ash/Desktop/mlops/mlruns/0/afd62438719f49a58e8354107f61621b/artifacts
+end_time: 1722522878067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: afd62438719f49a58e8354107f61621b
+run_name: silent-toad-658
+run_uuid: afd62438719f49a58e8354107f61621b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722522863969
+status: 3
+tags: []
+user_id: 31ash

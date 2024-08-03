@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/31ash/Desktop/mlops/mlruns/0/05e773d4142848fe9699e64e94e657a9/artifacts
+end_time: 1722522938521
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05e773d4142848fe9699e64e94e657a9
+run_name: thundering-gnu-258
+run_uuid: 05e773d4142848fe9699e64e94e657a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722522881187
+status: 3
+tags: []
+user_id: 31ash

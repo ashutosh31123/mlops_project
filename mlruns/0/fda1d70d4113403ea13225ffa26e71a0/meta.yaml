@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/31ash/Desktop/mlops/mlruns/0/fda1d70d4113403ea13225ffa26e71a0/artifacts
+end_time: 1722359482192
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fda1d70d4113403ea13225ffa26e71a0
+run_name: marvelous-lamb-833
+run_uuid: fda1d70d4113403ea13225ffa26e71a0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722359478147
+status: 3
+tags: []
+user_id: 31ash
